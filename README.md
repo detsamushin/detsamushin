@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hello Everyone ! 
 
-<!--
-**detsamushin/detsamushin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **Aditya Satria Utama**.<br>
 
-Here are some ideas to get you started:
+I am a **freelance graphic designer.** [My Project](https://detsamushin.github.io/portofolio-saya/).<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am proficient in using Adobe Illustrator, Photoshop, and Clip Studio Paint.<br>
+
+I specialize in creating t-shirt designs, banners, stickers, book covers, posters, and more.<br>
+
+I am also skilled in illustration, including character and mascot creation.
+
+If you're interested in me, let's get to know each other on [Linkedin](www.linkedin.com/in/aditya-satria-utama-a54469323)!
+
