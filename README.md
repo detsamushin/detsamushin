@@ -12,3 +12,9 @@ I am also skilled in illustration, including character and mascot creation.
 
 If you're interested in me, let's get to know each other on [Linkedin](www.linkedin.com/in/aditya-satria-utama-a54469323)!
 
+<p align="left">
+<a href="https://github.com/detsamushin">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&theme=algolia"/>
+</a>
+</p>
